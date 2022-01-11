@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.box{
+    height: 40px;
+    width: 480px;
+}
+
+h2{
+    font-size: 3rem;
+}
